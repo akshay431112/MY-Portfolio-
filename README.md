@@ -1,1 +1,6 @@
 # MY-Portfolio-
+- 👋 Hi, I’m @akshay
+- 👀 I’m interested in ...deveops and cloud
+- 🌱 I’m currently learning ...deveops
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
